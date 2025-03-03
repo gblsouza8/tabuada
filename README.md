@@ -1,2 +1,2 @@
 # tabuada
-Tabuada automática em java de um número inserido pelo usuário usando um laço for 
+Tabuada automática em JAVA de um número inserido pelo usuário usando um laço for 
